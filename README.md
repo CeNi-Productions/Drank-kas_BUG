@@ -1,1 +1,1 @@
-# Drank-BUG
+# Purly for bug tickets
